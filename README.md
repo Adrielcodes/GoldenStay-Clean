@@ -1,3 +1,3 @@
-# README
+# GoldenStay (Airbnb)
 
-## Ruby on Rails 2024- Airbnb clone -HTML, CSS, JavaScript, TailwindCSS, Ruby, Rails, PostgreSQL
+## Ruby on Rails, CSS, JavaScript, TailwindCSS, Ruby, Rails, PostgreSQL
